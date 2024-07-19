@@ -1,0 +1,39 @@
+@using LibraryInfra.Models
+@model List<Book>
+
+@{
+    ViewData["Title"] = "Books";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div style="float: right;">
+<a asp-action="AddBooks" asp-controller="Home" class="btn btn-primary" align="right">Create a New Book</a>
+</div>
+    
+
+
+<table class="table">
+   
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Author Name</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+               <tr style="background-color: lightcoral;">
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Genre</td>
+                <td>@book.AuthName</td>
+                  <td><a asp-action="Update" asp-route-id="@book.Id">Edit</a> </td>|
+              <td> <a asp-action="Delete" asp-route-id="@book.Id">Delete</a> </td> 
+            </tr>
+        }
+    </tbody>
+</table>    

@@ -1,0 +1,14 @@
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\bin\Debug\net8.0\LibraryInfra.deps.json
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\bin\Debug\net8.0\LibraryInfra.runtimeconfig.json
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\bin\Debug\net8.0\LibraryInfra.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\bin\Debug\net8.0\LibraryInfra.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.csproj.AssemblyReference.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.AssemblyInfoInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.AssemblyInfo.cs
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.csproj.CoreCompileInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\refint\LibraryInfra.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\LibraryInfra.genruntimeconfig.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryInfra\obj\Debug\net8.0\ref\LibraryInfra.dll

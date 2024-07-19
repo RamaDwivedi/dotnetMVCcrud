@@ -1,0 +1,15 @@
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\bin\Debug\net8.0\LibraryDomain.deps.json
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\bin\Debug\net8.0\LibraryDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\bin\Debug\net8.0\LibraryDomain.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\bin\Debug\net8.0\LibraryInfra.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\bin\Debug\net8.0\LibraryInfra.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.csproj.AssemblyReference.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.AssemblyInfoInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.AssemblyInfo.cs
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.csproj.CoreCompileInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryD.2F028ED6.Up2Date
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\refint\LibraryDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\LibraryDomain.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\dotnet\LibraryManagement\LibraryDomain\obj\Debug\net8.0\ref\LibraryDomain.dll
